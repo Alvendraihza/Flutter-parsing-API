@@ -1,6 +1,6 @@
 # JSON PARSING WITH FLUTTER
 
-![ss](images/ss.jpg)
+![ss](https://user-images.githubusercontent.com/38848573/61374770-66e8c580-a8c7-11e9-8b75-1b7b891d96e7.JPG)
 
 Melakukan parsing data menggunakan JSON dengan sebuah url API untuk eksekusi dalam melakukan request dan 3 parameter, yaitu :
 
