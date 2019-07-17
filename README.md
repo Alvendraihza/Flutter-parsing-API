@@ -1,16 +1,11 @@
-# flutter_app
+# JSON PARSING WITH FLUTTER
 
-A new Flutter application.
+![ss](images/ss.jpg)
 
-## Getting Started
+Melakukan parsing data menggunakan JSON dengan sebuah url API untuk eksekusi dalam melakukan request dan 3 parameter, yaitu :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Api URL 	= https://ffst.my.id/onclass/index.php/api/list_jawaban
+Parameter 	=
+1.	Username
+2.	Password 
+3.	Kode_ujian 
